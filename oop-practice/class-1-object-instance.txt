@@ -1,0 +1,13 @@
+Object: Conwell-Egan HS Cafeteria
+
+Attributes:
+seatingCapacity = "400"
+menu = ["pizza", "burgers", "hotdogs","pasta"]
+headLunchLady = "Camille"
+tacoTuesday = "False"
+
+Methods:
+closeSidePanel seatingCapacity = "200"
+ingridientShortage menu = ["pizza", "hotdogs", "pasta"]
+shiftSwap headLunchLady - "Doris"
+isTuesday tacoTuesday = "True"
