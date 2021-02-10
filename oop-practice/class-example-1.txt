@@ -1,0 +1,13 @@
+Class: Cafeteria
+
+Attributes:
+seatingCapacity (integer)
+menu (array)
+headLunchLady (string)
+tacoTuesday (boolean)
+
+Methods:
+closeSidePanel (cuts seatingCapacity in half)
+ingridientShortage (removes string from menu array)
+shiftSwap (changes headLunchLady string)
+isTuesday (tacoTuesday value always = "true")
